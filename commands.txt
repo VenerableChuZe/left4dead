@@ -1,4 +1,4 @@
-    sm_votemenu - Opens the vote menu
+   !votemenu or  sm_votemenu - Opens the vote menu
     sm_customvotes_reload - Reloads the configuration file (Clears all votes)
 
     Enter !helpmenu to display a menu to help players understand your server's content
