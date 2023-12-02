@@ -1,0 +1,22 @@
+    sm_votemenu - Opens the vote menu
+    sm_customvotes_reload - Reloads the configuration file (Clears all votes)
+
+    Enter !helpmenu to display a menu to help players understand your server's content
+    !kills
+
+LMC_Menu_Choosing modules include a command for model changing menu "!lmc"
+
+
+
+
+
+////////////command list for points shop///////////
+
+    Type !buy in the game to open Shop menu.
+    Type !buy <item> in the game to buy an item by command.
+    type !admin and find 'Shop Commands' to open the shop admin menu.
+    type !rb or !repeatbuy to repeatedly buy.
+    type !kill to suicide.
+    Edit an item cost in the cfg to -1 to disable the item.
+    You can copy others plugin functions to make your own special functions.
+//////////////////////////////////////////////////////////////////////////////////////
